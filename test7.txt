@@ -1,1 +1,2 @@
 This is test7.txt from GITHUB
+Edited -1
