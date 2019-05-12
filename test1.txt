@@ -1,1 +1,2 @@
 git first example
+checking difference between work directory & local repo
